@@ -1,0 +1,13 @@
+.archivosPadres{
+    padding: 20px;
+    background: #f1f1f1;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.archivosPadres .padresTitle{
+    vertical-align: middle;
+    font-size: 22px;
+    color: black;
+    margin-right: 20px;
+}

@@ -1,0 +1,55 @@
+{
+  "name": "react_spa",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "1.0.1": "^1.0.0",
+    "@syncfusion/ej2-react-grids": "^17.3.34",
+    "antd": "^3.26.2",
+    "axios": "^0.19.0",
+    "gapi-script": "^1.0.2",
+    "leaflet": "^1.6.0",
+    "moment": "^2.19.3",
+    "moment-mini": "^2.18.1",
+    "node-html-parser": "^1.1.16",
+    "object-fit-images": "^3.2.4",
+    "react": "^16.12.0",
+    "react-big-calendar": "^0.22.1",
+    "react-burger-menu": "^2.6.13",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dock": "^0.2.4",
+    "react-dom": "^16.9.0",
+    "react-image-lightbox": "^5.1.0",
+    "react-items-carousel": "^2.8.0",
+    "react-lazy-load-image-component": "^1.3.2",
+    "react-leaflet": "^2.6.0",
+    "react-masonry-layout": "^0.4.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "3.1.2",
+    "react-scroll-pagination": "^0.1.10",
+    "react-scroll-to": "^3.0.0-beta.4",
+    "react_google_calendar": "^2.2.4444",
+    "recompose": "^0.30.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-alice-carousel": "^1.17.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
